@@ -8,6 +8,124 @@
 </head>
 <body>
  <style>
+     body{
+    background-color:rgb(60,60,60)
+    
+    
+    
+}
+#p1{
+    text-align: center;
+    color: rgb(250, 250, 250);
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 0px 1px 100px ;
+
+
+}
+.img-responsiva{
+    max-width: 150px;
+    max-width: 5%;
+    height: auto;
+    float: left;    
+
+}
+.p2{
+    text-align:center;
+    font-style: normal;
+    transform: none;
+    font-size: 30px;
+    color: rgba(250, 250, 250, 0.8);
+    margin: 2px 1px 120px;
+    background-color: brown;
+    border: 2px solid brown;
+    border-radius: 20px;
+    margin: 60px 290px 100px;
+    padding: 23px;
+    box-shadow: 0 0 150px #000;
+  
+}
+.img-roto,.img-agent,.img-xmanp
+,.img-v2,.img-agent2,.img-j,.img-agent3
+,.img-de,.img-hoa,.img-eu,.img-gu,.img-gu2
+,.img-agent4,.img-ca,.img-hf,.img-5,.img-tho
+,.img-wo,.img-agent6,.img-hoa2,.img-vi,.img-x2
+,.img-wox,.img-xa,.img-cm,.img-xf,.img-bl,.img-xfl
+,.img-bl2,.img-hoar,.img-xf3,.img-dem,.img-hoar4
+,.img-blt,.img-f4,.img-hi,.img-xvf,.img-tho2
+,.img-hulk,.img-hof4,.img-foh,.img-po,.img-agent5{
+ margin: 80;
+ height: 50vh;
+ border: 10px solid rgb(253, 253, 253);
+ border-radius: 10px;
+}
+.content,.content1,.content2,.content3,.content4,.content5,.content6,.content7,.content8,.content9,.content10,.content11
+,.content12,.content13,.content14,.content15,.content16,.content17,.content18,.content19,.content20,.content21,.content22
+,.content23,.content24,.content25,.content26,.content27,.content28,.content29,.content30,.content31,.content32,.content33
+,.content34,.content35,.content36,.content37,.content38,.content39,.content40,.content41,.content42{
+    text-align: center;
+}                                 
+                                
+.a1,.a2,.a3,.a4,.a5 ,.a6,.a7
+,.a8,.a9,.a10,.a11,.a12,.a13
+,.a14,.a15,.a16,.a17,.a18,.a19,.a20
+,.a21,.a22,.a23,.a24,.a25,.a26,.a27,.a28
+,.a29,.a30,.a31,.a32,.a33,.a34,.a35,.a36
+,.a37,.a38,.a39,.a40,.a41,.a42,.a43
+{
+    text-align: center;
+    font-size: 40px;
+    box-shadow: 0 0 150px #000;
+    color:  rgb(250, 250, 250);
+    background-color: brown;
+    border-radius: 60px;
+    margin: 2px 500px 90px;
+
+}
+.t1,.t2,.t3,.t4,.t5,.t6,.t7,.t8
+,.t9,.t10,.t11,.t12,.t13,.t14,.t15
+,.t16,.t17,.t18,.t19,.t20,.t21
+,.t22,.t23,.t24,.t25,.t26,.t27
+,.t28,.t29,.t30,.t32,.t31,.t33
+,.t34,.t35,.t36,.t37,.t38,.t39
+,.t40,.t41,.t42,.t43,.t44,.t45,.t47{
+    text-align: center;
+    transform: none;
+    padding-right: 50px;
+    padding-left: 50px;
+    font-size:30px;
+    color: rgb(250, 250, 250);
+    background-color: brown;
+    border-radius: 20px;
+    margin: 20px 30px 300px;
+     box-shadow: 0 0 150px #000;
+
+
+}
+.img-v2{
+    margin: 80;
+ height: 50vh;
+ border: 10px solid rgb(253, 253, 253);
+ border-radius: 10px; 
+}
+.t46{
+    
+    text-align: center;
+    font-size: 40px;
+
+    color:  rgb(250, 250, 250);
+    background-color: brown;
+    border-radius: 60px;
+    margin: 2px 500px 90px;
+
+    
+}
+
+
+
+
+
     #barao {
       display: none;
       position: fixed;
